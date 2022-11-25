@@ -1,0 +1,163 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+nav{
+    background-color: black;
+    padding: 3rem;
+    height: 10px;
+    width: 1690px;
+}
+#img{
+    display: inline-block;
+    position: absolute;
+    top: 40px;
+    left: 60px;
+    height: 5vh;
+    width: 3vw;
+    margin-right: 0.6rem;
+}
+ul{
+    position: absolute;
+    right: 10px;
+    top: 50px;
+    align-items: center;
+    justify-content: center;
+    display: flex;
+    flex-wrap: wrap;
+}
+li a{
+    font-size: 1.5rem;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    text-decoration: none;
+    color: antiquewhite;
+    justify-content: center;
+    margin: 1rem;
+    padding: 1rem;
+}
+li a:hover{
+    color: aquamarine;
+}
+span{
+    color: white;
+    font-size: 2rem;
+    position: absolute;
+    top: 40px;
+    left: 120px;
+}
+.first{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background: url(download6.jpeg) ;
+}
+.img1{
+    height: 700px;
+    width: 420px;
+    margin-left: 40px;
+    margin-top: 20px;
+}
+.aa{
+    margin-left: 18px;
+    align-items: center;
+    justify-content: center;
+}
+.aa h1{
+    color: white;
+    margin-bottom: 1.5rem;
+    font-size: 4.8rem;
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+.butt{
+    cursor: pointer;
+    font-size: 1.4rem;
+    border-radius: 28px;
+    border: 3px solid black;
+    padding: 1rem;
+    color: black;
+    background-color: white;
+}
+.butt:hover{
+    font-size: 1.8rem;
+}
+.second{
+    text-align: center;
+}
+.aaaa{
+    font-size: 3rem;
+}
+.aaaa h1{
+    margin: 1.8rem;
+}
+.ss{
+    width: 24vw;
+}
+.ss h3{
+    font-size: 2rem;
+    margin-bottom: 0.5rem;
+}
+.ss p{
+    font-size: 1.2rem;
+}
+.s{
+    display: flex;
+    flex-wrap: wrap;
+}
+.third{
+    margin-top: 20px;
+    background-color: blueviolet;
+    height: 300px;
+    font-size: 3rem;
+    padding-top: 150px;
+}
+.four{
+    margin-top: 80px;
+    height: 200px;
+}
+h2{
+    font-size: 1.7rem;
+}
+hr{
+    width: 50%;
+    margin-bottom: 10px;
+}
+.fifth{
+    margin-top: 25px;
+    height: 200px;
+    text-align: center;
+    background: url(download10.jpeg);
+    padding-top: 60px;
+}
+.ready{
+    margin-top: 10px;
+    font-size: 4rem;
+    margin-bottom: 20px;
+}
+footer{
+    background-color: black;
+    color: white;
+    
+}
+footer .logo{
+    margin-bottom: 5rem;
+}
+.abcd{
+    height: 7vh;
+    width: 5vw;
+}
+.foote{
+    text-align: center;
+    display: flex;
+}
+footer h2{
+    font-size: 1rem;
+}
+.foot{
+    width: 24vw;
+    margin-bottom: 2.5rem;
+}
+.foot img{
+    height: 3vh;
+    width: 3vw;
+}
+
