@@ -1,3 +1,3 @@
-# WebDexaam2
+# SPOTIFY
 
 Link :  https://jatinagrawal22.github.io/SpotifyWeb/
